@@ -1,19 +1,16 @@
-# README
+# authflow-rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A project to learn about authorization flow on rails.
 
-Things you may want to cover:
+* Ruby version: 2.3.7
 
-* Ruby version
-
-* System dependencies
+* System dependencies: check out Gemfile
 
 * Configuration
 
-* Database creation
+* Database creation: rake db:create, rake db:migrate
 
-* Database initialization
+* Database initialization: rake db:seed
 
 * How to run the test suite
 
